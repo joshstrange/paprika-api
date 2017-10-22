@@ -2,6 +2,10 @@
 	"name": "paprika-api",
 	"version": "1.0.0",
 	"description": "NodeJS Library to talk to Paprika's backend",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/joshstrange/paprika-api.git"
+	},
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
 	"scripts": {
