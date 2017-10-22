@@ -1,0 +1,27 @@
+{
+	"name": "paprika-api",
+	"version": "1.0.0",
+	"description": "NodeJS Library to talk to Paprika's backend",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"prepublishOnly": "npm run build",
+		"build": "tsc",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"paprika",
+		"api",
+		"recipie"
+	],
+	"author": "Josh Strange",
+	"license": "MIT",
+	"dependencies": {
+		"@types/request-promise-native": "^1.0.8",
+		"request": "^2.83.0",
+		"request-promise-native": "^1.0.5"
+	},
+	"devDependencies": {
+		"typescript": "^2.5.3"
+	}
+}
