@@ -1,6 +1,6 @@
 {
 	"name": "paprika-api",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "NodeJS Library to talk to Paprika's backend",
 	"repository": {
 		"type": "git",
