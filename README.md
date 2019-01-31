@@ -11,7 +11,7 @@ import {PaprikaApi} from 'paprika-api';
 Javascript:
 
 ````javascript 1.8
-let PaprikaApi = require('paprika-api');
+let PaprikaApi = require('paprika-api').PaprikaApi;
 ````
 
 ## Initialize
